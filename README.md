@@ -1,4 +1,4 @@
-# practice_autovectorization
+# practice_autovectorization (Windows)
 
 ## Instructions:
 
